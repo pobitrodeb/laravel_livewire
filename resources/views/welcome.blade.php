@@ -15,7 +15,11 @@
     <div class="container">
        <div class="my-3">
         <livewire:product/>
+
        </div>
+      <div class="">
+        <livewire:dumyconent/>
+      </div>
     <livewire:footer/>
     </div>
     @livewireScripts
