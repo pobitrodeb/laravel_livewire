@@ -23,6 +23,11 @@
       <div class="search">
        <livewire:search/>
       </div>
+
+      <div class="actionForm my-3">
+        <livewire:form/>
+      </div>
+
     <livewire:footer/>
     </div>
     @livewireScripts
