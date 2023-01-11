@@ -20,6 +20,9 @@
       <div class="">
         <livewire:dumyconent/>
       </div>
+      <div class="search">
+       <livewire:search/>
+      </div>
     <livewire:footer/>
     </div>
     @livewireScripts
