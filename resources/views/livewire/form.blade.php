@@ -6,8 +6,8 @@
     <button class="btn btn-primary"> Submit Form </button>
     {{ $submitForMessage }}
 </form>
-
-
-  <a class="btn btn-danger" wire:click="onChange"> Click for change content</a>
+</div>
+<div>
+    <a class="btn btn-danger" wire:click="onChange"> Click for change content</a>
   {{ $message }}
 </div>

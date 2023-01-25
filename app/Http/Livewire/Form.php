@@ -15,7 +15,6 @@ class Form extends Component
     public function onChange()
     {
         $this->message = 'Congratulations, your are click button';
-
     }
 
     public function submitForm(){
